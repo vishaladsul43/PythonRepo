@@ -1,6 +1,5 @@
-Print("welccome")
-
-a=10
-b=20
-c=a+b
-print (c)
+x=90
+y=100
+z=20
+r=x+y+z
+print(r)
